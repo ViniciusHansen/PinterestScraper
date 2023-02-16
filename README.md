@@ -1,6 +1,12 @@
 # PinterestScraper
 Script to scrape pinterest images, powered by [pinscrape](https://github.com/iamatulsingh/pinscrape)
 
+Install requirements:
+
+```
+pip install -r requirements.txt
+```
+
 For instructions run:
 ```
 python3 scraper.py -h
