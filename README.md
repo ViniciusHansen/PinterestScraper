@@ -1,5 +1,5 @@
 # PinterestScraper
-Script to scrape pinterest images, powered by pinscrape
+Script to scrape pinterest images, powered by [pinscrape](https://github.com/iamatulsingh/pinscrape)
 
 For instructions run:
 ```
